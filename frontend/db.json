@@ -1,0 +1,20 @@
+{
+    "database_table_one" : [
+        {
+            "id" : 1,
+            "field_one" : "value_one",
+            "field_two" : "value_two"
+        },
+        {
+            "id" : 2,
+            "field_one" : "value_one",
+            "field_two" : "value_two"
+        }
+    ],
+    "database_table_two" : [
+        {
+            "id" : 1,
+            "field_one" : "value_one"
+        }
+    ]
+}
